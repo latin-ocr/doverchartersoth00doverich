@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./doverchartersoth00doverich_0033.png"; bbox 0 0 2192 3342; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 870 642 933 783">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 870 642 933 783">
+     <span class='ocr_line' id='line_1_1' title="bbox 870 642 933 783; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 870 642 933 783; x_wconf 67' lang='grc' dir='ltr'><strong>’ξ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 276 992 1526 1233">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 276 992 1526 1233">
+     <span class='ocr_line' id='line_1_2' title="bbox 733 992 1073 1052; baseline 0 -1"><span class='ocrx_word' id='word_1_2' title='bbox 733 992 1073 1052; x_wconf 84' lang='lat' dir='ltr'>INCIPIT</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 276 1154 1526 1233; baseline -0.004 0"><span class='ocrx_word' id='word_1_3' title='bbox 276 1159 660 1233; x_wconf 86' lang='lat' dir='ltr'>LIBER</span> <span class='ocrx_word' id='word_1_4' title='bbox 763 1154 1526 1231; x_wconf 81' lang='lat' dir='ltr'>CARTARUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 859 1313 937 1350">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 859 1313 937 1350">
+     <span class='ocr_line' id='line_1_4' title="bbox 859 1313 937 1350; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 859 1313 937 1350; x_wconf 78' lang='lat' dir='ltr'><strong>AD</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 473 1436 1326 1642">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 473 1436 1326 1642">
+     <span class='ocr_line' id='line_1_5' title="bbox 473 1436 1326 1488; baseline -0.005 0"><span class='ocrx_word' id='word_1_6' title='bbox 473 1438 778 1488; x_wconf 80' lang='lat' dir='ltr'>VILLAM</span> <span class='ocrx_word' id='word_1_7' title='bbox 837 1437 934 1486; x_wconf 89' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 990 1436 1326 1487; x_wconf 88' lang='lat' dir='ltr'><strong>PORTUM</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 679 1582 1119 1642; baseline -0.007 0"><span class='ocrx_word' id='word_1_9' title='bbox 679 1582 1119 1642; x_wconf 90' lang='lat' dir='ltr'><strong>DOVORRE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 448 1738 1334 1806">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 448 1738 1334 1806">
+     <span class='ocr_line' id='line_1_7' title="bbox 448 1738 1334 1806; baseline -0.006 -14"><span class='ocrx_word' id='word_1_10' title='bbox 448 1741 786 1792; x_wconf 87' lang='lat' dir='ltr'>NECNON</span> <span class='ocrx_word' id='word_1_11' title='bbox 834 1740 940 1789; x_wconf 91' lang='lat' dir='ltr'><strong>AD</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 986 1738 1334 1806; x_wconf 82' lang='lat' dir='ltr'>EJUSDEM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 610 1885 1174 2095">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 610 1885 1174 2095">
+     <span class='ocr_line' id='line_1_8' title="bbox 697 1885 1092 1945; baseline -0.005 0"><span class='ocrx_word' id='word_1_13' title='bbox 697 1885 1092 1945; x_wconf 88' lang='lat' dir='ltr'><strong>MEMBRA</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 610 2041 1174 2095; baseline -0.007 0"><span class='ocrx_word' id='word_1_14' title='bbox 610 2041 1174 2095; x_wconf 81' lang='lat' dir='ltr'><strong>SPECTANTIUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 861 2332 924 2476">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 861 2332 924 2476">
+     <span class='ocr_line' id='line_1_10' title="bbox 861 2332 924 2476; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 861 2332 924 2476; x_wconf 56' lang='grc' dir='ltr'>ἒ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
